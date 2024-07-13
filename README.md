@@ -2,7 +2,7 @@
 
 ## Projects
 
-### [Project 1: Tkinter Diary](project1.py)
+### [Project 1: Tkinter Diary](diary_project.py)
 A diary application built in Python using Tkinter. Allows user to write entries, read previous entries, and exit the diary.
 
 ### [Project 2: Introduction to Remote Sensing Final Project](Intro_RS_Final_Project.js)
